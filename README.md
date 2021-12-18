@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bwayne-xd" alt="bwayne-xd" /></a> </p>
 
-- 👯 I’m looking to collaborate on [Đøřēmøń](https://github.com/bwayne-xD?tab=repositories)
-
-- 👨‍💻 All of my projects are available at [bwayne-xD](https://github.com/bwayne-xD?tab=repositories)
+-  🚶‍&nbsp;I Live In : Sri Lanka 🇱🇰  <br>
+-  👯 I’m Looking To Collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
+-  🤔 I’m Looking For Help : ![me](https://img.shields.io/badge/For-Me-beige)  <br>
+-  📫 How To Reach Me : ![contact](https://img.shields.io/badge/Contact%20Me-On%20Discord-red)
+-  💬 Ask Me About Anything, I Am Happy To Help
+-  🎯 Contribute And Create Open Source Projects
+-  📚 I'm Studying ![python](https://img.shields.io/badge/Python-English-green)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
